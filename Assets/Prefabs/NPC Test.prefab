@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4917325261433698547}
   - component: {fileID: 2745936041553444901}
+  - component: {fileID: 3814369506508727514}
   m_Layer: 0
   m_Name: NPC Test
   m_TagString: Untagged
@@ -46,10 +47,48 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPC
   dialogueBox: {fileID: 1132458542198437449, guid: b1bbea13c674f174aa2448bb14f22ef6, type: 3}
+  Name: Mr Lorem
   CharacterLines:
   - So basically I
   - Don't know how to write haikus
   - Oh no I'm out of-
+  AltCharacterLines: []
+--- !u!58 &3814369506508727514
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4428996768335749006}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Radius: 1.7
 --- !u!1 &7625832334157087566
 GameObject:
   m_ObjectHideFlags: 0
