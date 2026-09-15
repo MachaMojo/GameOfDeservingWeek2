@@ -26,4 +26,8 @@ public class TicketCount : MonoBehaviour
         }
 
     }
+    public bool IsComplete()
+    {
+        return count >= limit;
+    }
 }
