@@ -187,7 +187,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 420f0ecb148b09d43b1db1f1e3f03a54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
-  dialogueBox: {fileID: 1132458542198437449, guid: b1bbea13c674f174aa2448bb14f22ef6, type: 3}
   speed: 5
 --- !u!114 &4159864102020930490
 MonoBehaviour:
@@ -227,7 +226,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 1
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &5813298160265751748
 BoxCollider2D:
   m_ObjectHideFlags: 0
