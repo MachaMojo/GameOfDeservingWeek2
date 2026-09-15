@@ -308,6 +308,10 @@ PrefabInstance:
       value: 0.075
       objectReference: {fileID: 0}
     - target: {fileID: 8538498485130201797, guid: be2781f1845cfea4297fcfeb5d508d25, type: 3}
+      propertyPath: disableSkip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538498485130201797, guid: be2781f1845cfea4297fcfeb5d508d25, type: 3}
       propertyPath: lines.Array.size
       value: 2
       objectReference: {fileID: 0}
