@@ -118,8 +118,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Dialogue
   textComponent: {fileID: 1075234756402025901}
   lines:
-  - Insert end lines here
+  - 
+  - 
+  - 
   textSpeed: 0.3
+  disableSkip: 0
 --- !u!1 &2919729069030628654
 GameObject:
   m_ObjectHideFlags: 0

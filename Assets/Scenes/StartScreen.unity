@@ -317,15 +317,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8538498485130201797, guid: be2781f1845cfea4297fcfeb5d508d25, type: 3}
       propertyPath: lines.Array.size
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8538498485130201797, guid: be2781f1845cfea4297fcfeb5d508d25, type: 3}
       propertyPath: 'lines.Array.data[0]'
-      value: Insert start lines here
+      value: Hello, Scientist.
       objectReference: {fileID: 0}
     - target: {fileID: 8538498485130201797, guid: be2781f1845cfea4297fcfeb5d508d25, type: 3}
       propertyPath: 'lines.Array.data[1]'
-      value: Insert start lines here
+      value: Today three Subjects must enter The Chamber.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538498485130201797, guid: be2781f1845cfea4297fcfeb5d508d25, type: 3}
+      propertyPath: 'lines.Array.data[2]'
+      value: It is up to you to choose who Deserves to enter.
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
