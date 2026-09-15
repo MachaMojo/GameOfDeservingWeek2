@@ -3,7 +3,6 @@ using UnityEngine;
 public class NPC : MonoBehaviour
 {
     public GameObject dialogueBox;
-    public GameObject errorBox;
     public string Name;
     public string [] CharacterLines;
     public string [] AltCharacterLines;
