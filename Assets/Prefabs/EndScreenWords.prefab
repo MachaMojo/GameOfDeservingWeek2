@@ -120,6 +120,7 @@ MonoBehaviour:
   lines:
   - Insert end lines here
   textSpeed: 0.3
+  disableSkip: 0
 --- !u!1 &2919729069030628654
 GameObject:
   m_ObjectHideFlags: 0
@@ -187,8 +188,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: New Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: d7e27561157d21841913a394059a2cb2, type: 2}
+  m_sharedMaterial: {fileID: -6120143803232827017, guid: d7e27561157d21841913a394059a2cb2, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
