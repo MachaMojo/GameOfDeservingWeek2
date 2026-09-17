@@ -1363,6 +1363,34 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC 6
       objectReference: {fileID: 0}
+    - target: {fileID: 4357055350622193258, guid: ce3350d3bc2a2464f9bf556fb1288d3b, type: 3}
+      propertyPath: Name
+      value: Anxious Patient
+      objectReference: {fileID: 0}
+    - target: {fileID: 4357055350622193258, guid: ce3350d3bc2a2464f9bf556fb1288d3b, type: 3}
+      propertyPath: CharacterLines.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4357055350622193258, guid: ce3350d3bc2a2464f9bf556fb1288d3b, type: 3}
+      propertyPath: 'CharacterLines.Array.data[0]'
+      value: "I did that. What\u2019s next? "
+      objectReference: {fileID: 0}
+    - target: {fileID: 4357055350622193258, guid: ce3350d3bc2a2464f9bf556fb1288d3b, type: 3}
+      propertyPath: 'CharacterLines.Array.data[1]'
+      value: "Is it bad? I\u2019m so scared. How much left? "
+      objectReference: {fileID: 0}
+    - target: {fileID: 4357055350622193258, guid: ce3350d3bc2a2464f9bf556fb1288d3b, type: 3}
+      propertyPath: 'CharacterLines.Array.data[2]'
+      value: Can you explain it to me?
+      objectReference: {fileID: 0}
+    - target: {fileID: 4357055350622193258, guid: ce3350d3bc2a2464f9bf556fb1288d3b, type: 3}
+      propertyPath: 'CharacterLines.Array.data[3]'
+      value: "Don\u2019t get impatient, please! "
+      objectReference: {fileID: 0}
+    - target: {fileID: 4357055350622193258, guid: ce3350d3bc2a2464f9bf556fb1288d3b, type: 3}
+      propertyPath: 'CharacterLines.Array.data[4]'
+      value: "Okay, okay, I\u2019ll do it. "
+      objectReference: {fileID: 0}
     - target: {fileID: 6796215253618015932, guid: ce3350d3bc2a2464f9bf556fb1288d3b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.87
@@ -1422,7 +1450,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3850304087933149053, guid: 127ea6b60e396c64eb3563bbfc8fe9e7, type: 3}
       propertyPath: Name
-      value: 
+      value: Judgemental Patient
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850304087933149053, guid: 127ea6b60e396c64eb3563bbfc8fe9e7, type: 3}
+      propertyPath: CharacterLines.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850304087933149053, guid: 127ea6b60e396c64eb3563bbfc8fe9e7, type: 3}
+      propertyPath: 'CharacterLines.Array.data[0]'
+      value: Unstable.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850304087933149053, guid: 127ea6b60e396c64eb3563bbfc8fe9e7, type: 3}
+      propertyPath: 'CharacterLines.Array.data[1]'
+      value: "It\u2019s not the first time. The baby. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850304087933149053, guid: 127ea6b60e396c64eb3563bbfc8fe9e7, type: 3}
+      propertyPath: 'CharacterLines.Array.data[2]'
+      value: 'But the chamber will forgive all. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 3850304087933149053, guid: 127ea6b60e396c64eb3563bbfc8fe9e7, type: 3}
+      propertyPath: 'CharacterLines.Array.data[3]'
+      value: 'Take it easy. '
       objectReference: {fileID: 0}
     - target: {fileID: 6289655289294514091, guid: 127ea6b60e396c64eb3563bbfc8fe9e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1516,6 +1564,30 @@ PrefabInstance:
     - target: {fileID: 3171557861444213224, guid: 932d65d5d3e7dd64e9238e695370cc1e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5631184055074152766, guid: 932d65d5d3e7dd64e9238e695370cc1e, type: 3}
+      propertyPath: Name
+      value: Zealous Patient
+      objectReference: {fileID: 0}
+    - target: {fileID: 5631184055074152766, guid: 932d65d5d3e7dd64e9238e695370cc1e, type: 3}
+      propertyPath: CharacterLines.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5631184055074152766, guid: 932d65d5d3e7dd64e9238e695370cc1e, type: 3}
+      propertyPath: 'CharacterLines.Array.data[0]'
+      value: 'All of this is so beautiful. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5631184055074152766, guid: 932d65d5d3e7dd64e9238e695370cc1e, type: 3}
+      propertyPath: 'CharacterLines.Array.data[1]'
+      value: My gratitude is yours.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5631184055074152766, guid: 932d65d5d3e7dd64e9238e695370cc1e, type: 3}
+      propertyPath: 'CharacterLines.Array.data[2]'
+      value: "I\u2019ll enter the inner sanctum eventually!! "
+      objectReference: {fileID: 0}
+    - target: {fileID: 5631184055074152766, guid: 932d65d5d3e7dd64e9238e695370cc1e, type: 3}
+      propertyPath: 'CharacterLines.Array.data[3]'
+      value: 'I will do anything. '
       objectReference: {fileID: 0}
     - target: {fileID: 6145319264220151445, guid: 932d65d5d3e7dd64e9238e695370cc1e, type: 3}
       propertyPath: m_Name
