@@ -13,6 +13,11 @@ public class Dialogue : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        if (lines == null || lines.Length == 0)
+        {
+            gameObject.SetActive(false);
+            return;
+        }
         textComponent.text = string.Empty;
         StartDialogue();
     }
