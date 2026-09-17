@@ -847,7 +847,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5183165905632103524, guid: 776ff61d417a48d43bd7f7d29b4c01ac, type: 3}
       propertyPath: 'CharacterLines.Array.data[2]'
-      value: "Do you still think I\u2019m Deserving"
+      value: "Do you still think I\u2019m Deserving?"
       objectReference: {fileID: 0}
     - target: {fileID: 6666240809100317647, guid: 776ff61d417a48d43bd7f7d29b4c01ac, type: 3}
       propertyPath: m_Name
