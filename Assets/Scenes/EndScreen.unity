@@ -317,7 +317,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8538498485130201797, guid: be2781f1845cfea4297fcfeb5d508d25, type: 3}
       propertyPath: 'lines.Array.data[0]'
-      value: Thank you for your selection, Scientist.
+      value: Thank you for your selection, Scientist. We hold your contributions to biology in high regard.
       objectReference: {fileID: 0}
     - target: {fileID: 8538498485130201797, guid: be2781f1845cfea4297fcfeb5d508d25, type: 3}
       propertyPath: 'lines.Array.data[1]'
